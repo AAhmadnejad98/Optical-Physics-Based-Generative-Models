@@ -1,15 +1,6 @@
 # Optical-Physics-Based-Generative-Models
 Optical Physics-Based Generative Models
 
-with open('/mnt/data/README.md', 'w', encoding='utf-8') as f:
-    f.write("""# Optical Physics-Based Generative Models
-
-**Official Implementation for the Paper:**  
-**“Optical Physics-Based Generative Models”**  
-*Amirreza Ahmadnejad, Somayyeh Koohi*  
-Sharif University of Technology
-
----
 
 ## 🚀 Overview
 

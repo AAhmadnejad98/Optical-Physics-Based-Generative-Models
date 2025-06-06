@@ -17,9 +17,8 @@ The framework includes:
 ## 📖 Paper
 
 > Ahmadnejad, A., Koohi, S. (2025). *Optical Physics-Based Generative Models*.  
-> [Sharif University of Technology].  
-> [Download PDF](./template_compressed.pdf)  
-> *(Add arXiv link here if available)*
+> [Download PDF](https://arxiv.org/pdf/2506.04357v1)  
+
 
 ---
 
